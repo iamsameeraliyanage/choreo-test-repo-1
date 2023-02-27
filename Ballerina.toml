@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.1"
+  export = ["covid19_statistics_to_email"]
+  icon = "docs/icon.png"
+  keywords = ["Type/ManualTrigger","Category/Integration"]
+  name = "covid19_statistics_to_email"
+  org = "sameeraliyanagedhasx"
+  version = "1.1.0"
+
